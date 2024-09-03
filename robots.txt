@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yeredishi.github.io/sitemap.html.gz
+Sitemap: https://yeredishi.github.io/app/sitemap.html.gz
+Sitemap: https://yeredishi.github.io/assets/sitemap.html.gz
+Sitemap: https://yeredishi.github.io/css/sitemap.html.gz
+Sitemap: https://yeredishi.github.io/includes/sitemap.html.gz
+Sitemap: https://yeredishi.github.io/item/sitemap.html.gz
+Sitemap: https://yeredishi.github.io/src/sitemap.html.gz
